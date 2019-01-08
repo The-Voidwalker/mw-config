@@ -2110,6 +2110,11 @@ $wgConf->settings = array(
 				'UserType7' => true,
 			),
 		),
+		'+iwwiki' => array(
+			'bot' => array(
+				'interwiki' => true,
+			),
+		),
 		'+jacksonheightswiki' => array(
 			'emailconfirmed' => array(
 				'read' => true,
